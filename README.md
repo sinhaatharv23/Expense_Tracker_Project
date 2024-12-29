@@ -48,7 +48,8 @@ The **Expense Tracker App** is a Python-based application designed to help users
 ---
 
 ## Screenshots  
-![image](https://github.com/user-attachments/assets/f666b469-4ec7-4077-8554-49118de7b181)
+![image](https://github.com/user-attachments/assets/6d7b6aba-3405-43c2-832e-a36761a13b08)
+
 
 ## License  
 This project is licensed under the MIT License.  
